@@ -34,9 +34,8 @@ Course: Signals and Systems (CPE223)
 Semester: 4th Semester — Spring 2026
 
 ## Team Members
-
-- Azka Kabir
 - Bisma Farheen
+- Azka Kabir
 - Anoosha Shakeel
 
 ## Supervisor
